@@ -1,5 +1,7 @@
 # Magic-8-Ball-Javascript
 
+[Python Version](https://github.com/AlexMunoz905/Magic-8-Ball-Python_
+
 1. Gets Input and sets it as a variable.
 2. Sets 8 variables with possible answers.
 3. Prints the Input variable and one of the possible answers.
