@@ -34,4 +34,4 @@ OUTPUT ON PAGE
   pizza
 ```
 
-Got the variable randomizer from (this stackover flow post)[http://stackoverflow.com/questions/14422233/how-do-you-select-a-random-variable-within-a-function-in-javascript]
+Got the variable randomizer from [this stackover flow post](http://stackoverflow.com/questions/14422233/how-do-you-select-a-random-variable-within-a-function-in-javascript)
